@@ -4,6 +4,13 @@
             "id": "28e0083a841c4d6c8b3786db4239b9e2",
             "max": 5,
             "name": "Single Choice Tag",
+            "tags": [
+                {
+                    "color": "yellow",
+                    "id": "adeca160c7d2447d8b77a36d22d34ef1",
+                    "name": "Script"
+                }
+            ],
             "type": 0
         }
     ],
