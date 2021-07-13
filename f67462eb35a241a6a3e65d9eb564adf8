@@ -1,0 +1,14 @@
+{
+    "fields": [
+        {
+            "id": "28e0083a841c4d6c8b3786db4239b9e2",
+            "max": 5,
+            "name": "Single Choice Tag",
+            "type": 0
+        }
+    ],
+    "id": "f67462eb35a241a6a3e65d9eb564adf8",
+    "name": "my database",
+    "type": 0,
+    "version": 1
+}
